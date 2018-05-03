@@ -1,1 +1,1 @@
-# spring-petclinic-customer-service
+# spring-petclinic-customers-service
