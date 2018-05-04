@@ -26,3 +26,11 @@ hs_err_pid*
 *.iml
 
 target
+
+.dockerignore
+.draft-tasks.toml
+.draftignore
+Dockerfile
+*.log
+charts/
+draft.toml
