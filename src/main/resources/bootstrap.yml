@@ -8,7 +8,7 @@ spring:
     name: customers-service
   cloud:
     config:
-      label: registry-first
+      fail-fast: false
       discovery:
         enabled: true
 eureka:
